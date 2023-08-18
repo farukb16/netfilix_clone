@@ -1,0 +1,35 @@
+body{
+    background-color: beige;
+}
+a{
+    text-decoration: none;
+    
+}
+button a{
+    color: black;
+}
+hr{
+    color: rgb(0, 0, 0);
+}
+.hesap-footer{
+    background-color: black;
+}
+.footer-top{
+    color: #757575;
+    font-size: 17px;
+}
+.footer-top-a{
+    color: #757575;
+    font-size: 17px;
+    text-decoration: none;
+}
+.index-a{
+    color: #757575;
+    font-size: 14px;
+    text-decoration: none;
+}
+.footer-son-p{
+    color: #757575;
+    font-size: 12px;
+}
+
